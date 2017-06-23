@@ -1,17 +1,11 @@
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
-  color: white;
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
-  text-align: center;
-  color: white;
 }
 
 a {
@@ -20,5 +14,8 @@ a {
 }
 
 body {
-  background-color: black;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
