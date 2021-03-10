@@ -1,3 +1,5 @@
 # excursion
 
-Week 3 project in a CodeCademy course for web development.
+Project in a CodeCademy course for web development.
+
+Access the site here: https://patriksson.github.io/excursion/
